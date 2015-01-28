@@ -1,7 +1,7 @@
 Dinner Menu
 
 Main Course:
-- SPagehetti and Meatballs
+- Turkey
 
 Dessert:
--Apple pie
+- Key Lime Pie
